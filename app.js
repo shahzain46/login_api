@@ -13,7 +13,7 @@ const fileUpload = require('express-fileupload')
 
 
 
-mongoose.connect('mongodb+srv://shahzain:12shah34zain@mydatabase.lboguaf.mongodb.net/test');
+mongoose.connect('mongodb+srv://username:yourpassword@mydatabase.lboguaf.mongodb.net/test');
 
 
 
